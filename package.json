@@ -1,0 +1,29 @@
+{
+  "name": "jaime-test",
+  "version": "1.0.0",
+  "description": "A sassy _S theme. ",
+  "main": "index.php",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaime5x5/jaime-test.git"
+  },
+  "keywords": [
+    "WordPress",
+    "Sass",
+    "grunt",
+    "_S",
+    "Jaime-D.-Williams"
+  ],
+  "author": "Jaime D. Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaime5x5/jaime-test/issues"
+  },
+  "homepage": "https://github.com/jaime5x5/jaime-test#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
