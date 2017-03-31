@@ -45,3 +45,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# =========================
+# This theme specific
+# =========================
+
+# jaime-test
+# =========================
+
+node_modules
+.npm-debug.log
+tmp
+.sass-cache
+*.css.map
